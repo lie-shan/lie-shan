@@ -28,7 +28,7 @@
 ```javascript
 // siapa saya?
 const lieshan = {
-  nama      : "Liē Shàn",
+  nama      : "Liē Shàn - Ahmad Ramadhan",
   status    : "Mahasiswa S1 Keperawatan",
   fokus_dev : ["HTML", "CSS", "JavaScript"],
   keamanan  : "Cyber Security Pemula 🔐",
