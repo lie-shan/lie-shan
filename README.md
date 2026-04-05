@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[![Grafik Aktivitas](https://github-readme-activity-graph.vercel.app/graph?username=;lie-shan&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grafik Aktivitas](https://github-readme-activity-graph.vercel.app/graph?username=lie-shan&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -144,6 +144,6 @@
 Perawat yang bisa koding. Developer yang menyembuhkan. Hacker yang sedang belajar. 🩺💻🔐
 ```
 
-![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=00ff88&style=flat-square&label=PENGUNJUNG)
+![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=lie-shan&color=00ff88&style=flat-square&label=PENGUNJUNG)
 
 </div>
