@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[![Grafik Aktivitas](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grafik Aktivitas](https://github-readme-activity-graph.vercel.app/graph?username=;lie-shan&theme=react-dark&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
