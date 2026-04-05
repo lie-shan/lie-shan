@@ -71,14 +71,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lie-shan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie-shan&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lie-shan&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
