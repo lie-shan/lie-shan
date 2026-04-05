@@ -72,13 +72,14 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lie-shan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lie-shan&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lie-shan&theme=matrix&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lie-shan&theme=dark&hide_border=true&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88)](https://git.io/streak-stats)
 
 </div>
 
